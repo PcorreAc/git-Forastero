@@ -67,4 +67,5 @@ public class Usuario {
             Conexion.cerrar(rs, ps);
         }
     }
+    //Aquí he agregado algo para el repo git
 }
